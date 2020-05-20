@@ -76,4 +76,4 @@ class headerz:
                 for i in other_string.split("&"):
                       x = i.split("=")
                       data[x[0]] = x[1]
-		return data
+                return data

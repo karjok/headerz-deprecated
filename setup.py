@@ -3,13 +3,13 @@ import setuptools
 setuptools.setup(
   name = 'headerz',
   packages = ['headerz'],
-  version = '0.2',
+  version = '0.3',
   license='MIT',
   description = 'A simple package for parsing a header string from sniffer app An android/browser on PC',
   author = 'Karjok Pangesty',
   author_email = 'karjok.pangesty@gmail.com',
   url = 'https://github.com/karjok/headerz',
-  download_url = 'https://github.com/karjok/headerz/archive/v_02.tar.gz',
+  download_url = 'https://github.com/karjok/headerz/archive/v_03.tar.gz',
   keywords = ['header parser', 'header string', 'parsing header string'],
  
   classifiers=[

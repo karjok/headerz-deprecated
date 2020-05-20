@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: headerz
-Version: 0.1
+Version: 0.2
 Summary: A simple package for parsing a header string from sniffer app An android/browser on PC
 Home-page: https://github.com/karjok/headerz
 Author: Karjok Pangesty
