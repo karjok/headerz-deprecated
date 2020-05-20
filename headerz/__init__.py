@@ -58,3 +58,22 @@ class headerz:
                 for a,b in kukimap.items():
                         ck.append(a.strip()+"="+b.strip())
                 return ";".join(ck)
+
+        def header_input(self):
+                txt = ""
+                print(f"Type !done if you're done")
+                while True:
+                            i = input()
+                            if i == "!done":
+                                  break
+                            elif len(i) != 0:
+                                  txt += i+"\n"
+                            else:
+                                  txt += "\n"
+                return txt
+        def other_parser(self,other_string):
+                data = {}
+                for i in other_string.split("&"):
+                      x = i.split("=")
+                      data[x[0]] = x[1]
+		return data

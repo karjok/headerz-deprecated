@@ -9,7 +9,7 @@ setuptools.setup(
   author = 'Karjok Pangesty',
   author_email = 'karjok.pangesty@gmail.com',
   url = 'https://github.com/karjok/headerz',
-  download_url = 'https://github.com/karjok/headerz/archive/v_01.tar.gz',
+  download_url = 'https://github.com/karjok/headerz/archive/v_02.tar.gz',
   keywords = ['header parser', 'header string', 'parsing header string'],
  
   classifiers=[
