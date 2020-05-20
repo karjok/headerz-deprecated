@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
   name = 'headerz',
   packages = ['headerz'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'A simple package for parsing a header string from sniffer app An android/browser on PC',
   author = 'Karjok Pangesty',
