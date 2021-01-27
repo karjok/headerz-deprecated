@@ -112,8 +112,6 @@ Press ctrl + c if you has done.
                 while True:
                    try:
                             i = input()
-                            #if i == "!done":
-                            #      break
                             if len(i) != 0:
                                   txt += i+"\n"
                             else:
